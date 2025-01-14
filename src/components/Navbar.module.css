@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff
+}
+
+.logo {
+    font-size: 3.5rem;
+    font-weight: regular;
+    letter-spacing: 2px;
+    color: #ffffff;
+    cursor: pointer;
+}
